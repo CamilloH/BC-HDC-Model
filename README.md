@@ -61,3 +61,4 @@ The weights file for the BC-Model is to big to upload on git.
 To download use this weTransfer link: 
 https://wetransfer.com/downloads/1314542a18bc17ca2382059119834f4220211013180549/5d966614e8a40da3491cbe07bffdad4720211013180604/deaec4
 
+Just add the add the weights folder to the project and the code will run
