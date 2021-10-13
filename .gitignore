@@ -1,0 +1,12 @@
+**/*.pyc
+__pycache__/**
+__pycache__/**/*
+__pycache__/*
+.vscode/.ropeproject/**
+.vscode/.ropeproject/**.*
+video_frames/input/frames/**.*
+video_frames/video_*.mp4
+video_frames/frame_*.png
+ffmpeg_output.txt
+dts.txt
+concat_videos.py
