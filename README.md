@@ -1,3 +1,4 @@
+
 Installation:
  * Required software:
    - Python 3 (Python 2 may work as well)
@@ -55,3 +56,8 @@ BC-Model:
  - parametersBC: all parameters used in the BC-Model
  - polarBCplotter.py: plot eBC and BVC activities during simulation 
  - polarBCplotterAllLayers: plot eBC, BVC and all TR layers during simulation (set plotAllLAyers TRUE in controller.py)
+
+The weights file for the BC-Model is to big to upload on git. 
+To download use this weTransfer link: 
+https://wetransfer.com/downloads/1314542a18bc17ca2382059119834f4220211013180549/5d966614e8a40da3491cbe07bffdad4720211013180604/deaec4
+
