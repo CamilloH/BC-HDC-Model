@@ -1,5 +1,7 @@
 This is the code for my bachelor thesis: 
-Biologically plausible spatial navigation. 
+
+Biologically plausible spatial navigation. (https://mediatum.ub.tum.de/1086674?show_id=1625203)
+
 A big part of the code was written by Amir El Sewisy
 
 Installation:
