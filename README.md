@@ -1,3 +1,6 @@
+This is the code for my bachelor thesis: 
+Biologically plausible spatial navigation. 
+A big part of the code was written by Amir El Sewisy
 
 Installation:
  * Required software:
@@ -48,7 +51,7 @@ HDC network Amir el Sewisy:
  - pybullet_environment.py: pybullet environment class, braitenberg controller
  - stresstest.py: performance testing
 
-BC-Model:
+BC-Model (Camillo Heye):
  - BCActivity.py: calculates boundary coding neurons activities during training and simulation 
  - HDCActivity.py: calculate HDC activity during training phase for BC-Model (MakeWeights.py)   
  - BCSimulation.py: gets egocentric activity profile and uses weights previously calculated to generate TR and BVC activity
